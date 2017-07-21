@@ -1,6 +1,6 @@
 ![Logo of the project](http://comercialprado.com.br/images/logo-header.png)
 
-[![Build Status](https://travis-ci.org/rafaellucio/comercialprado.site.svg?branch=master)](https://travis-ci.org/rafaellucio/comercialprado.site)
+[![Build Status](https://travis-ci.org/rafaellucio/comercialprado.server.svg?branch=master)](https://travis-ci.org/rafaellucio/comercialprado.server)
 
 # Comercial Prado materiais para construção
 > Vivendo para tornar a sua vida mais bonita e com baixo custo.
